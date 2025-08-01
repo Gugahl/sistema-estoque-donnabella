@@ -22,6 +22,7 @@ Um sistema de controle de estoque e ponto de venda (PDV) desenvolvido em Python 
 - **Matplotlib** – geração de gráficos (relatórios visuais)
 
 ## 📦 Estrutura sugerida do projeto
+```
 ├── main.py
 ├── /screens
 │ ├── login.py
@@ -36,5 +37,5 @@ Um sistema de controle de estoque e ponto de venda (PDV) desenvolvido em Python 
 │ └── estilos
 ├── LICENSE
 └── README.md
-
+```
 > Desenvolvido por **Gustavo Henrique Lima Santos** para profissionalizar o atendimento e o controle da loja familiar, unindo aprendizado prático de programação com necessidades reais do comércio.
